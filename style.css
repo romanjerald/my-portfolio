@@ -1,5 +1,13 @@
 <link rel="stylesheet" href="style.css">
 
+h1 {
+  font-size: 32px;
+}
+
+p {
+  color: #444;
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
